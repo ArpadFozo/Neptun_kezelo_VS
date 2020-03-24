@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<students>
+	<student>
+		<name>Erdei Gr�ta</name>
+		<course>halal</course>
+		<mark>3</mark>
+		<type>esti</type>
+	</student>
+	<student>
+		<name>Husz�r R�bert</name>
+		<course>fnyg</course>
+		<mark>3</mark>
+		<type>nappali</type>
+	</student>
+	<student>
+		<name>Kiss G�za</name>
+		<course>sztf1</course>
+		<mark>5</mark>
+		<type>nappali</type>
+	</student>
+	<student>
+		<name>Kiss G�za</name>
+		<course>archi1</course>
+		<mark>4</mark>
+		<type>nappali</type>
+	</student>
+	<student>
+		<name>Kiss G�za</name>
+		<course>whp</course>
+		<mark>4</mark>
+		<type>nappali</type>
+	</student>
+	<student>
+		<name>Kiss Mikl�s</name>
+		<course>archi1</course>
+		<mark>2</mark>
+		<type>esti</type>
+	</student>
+	<student>
+		<name>Kiss Mikl�s</name>
+		<course>opre</course>
+		<mark>2</mark>
+		<type>esti</type>
+	</student>
+	<student>
+		<name>Nagy Attila</name>
+		<course>archi1</course>
+		<mark>5</mark>
+		<type>nappali</type>
+	</student>
+	<student>
+		<name>Nagy Attila</name>
+		<course>opre</course>
+		<mark>5</mark>
+		<type>nappali</type>
+	</student>
+	<student>
+		<name>Nagy Attila</name>
+		<course>halal</course>
+		<mark>5</mark>
+		<type>nappali</type>
+	</student>
+	<student>
+		<name>Nagy Ferenc</name>
+		<course>whp</course>
+		<mark>2</mark>
+		<type>esti</type>
+	</student>
+	<student>
+		<name>Nagy Ferenc</name>
+		<course>sztf1</course>
+		<mark>3</mark>
+		<type>esti</type>
+	</student>
+	<student>
+		<name>P�ter M�nika</name>
+		<course>archi1</course>
+		<mark>2</mark>
+		<type>nappali</type>
+	</student>
+	<student>
+		<name>P�ter M�nika</name>
+		<course>opre</course>
+		<mark>1</mark>
+		<type>nappali</type>
+	</student>
+	<student>
+		<name>Poll�k Csilla</name>
+		<course>opre</course>
+		<mark>4</mark>
+		<type>esti</type>
+	</student>
+	<student>
+		<name>Sz�ll�ssy Janka</name>
+		<course>whp</course>
+		<mark>5</mark>
+		<type>esti</type>
+	</student>
+	<student>
+		<name>Sz�ll�ssy Janka</name>
+		<course>fnyg</course>
+		<mark>1</mark>
+		<type>esti</type>
+	</student>
+	<student>
+		<name>T�th L�szl�</name>
+		<course>whp</course>
+		<mark>4</mark>
+		<type>esti</type>
+	</student>
+</students>
